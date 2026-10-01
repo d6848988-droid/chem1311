@@ -153,4 +153,3 @@ retryQuiz.addEventListener('click', () => {
 </script>
 </body>
 </html>
-
